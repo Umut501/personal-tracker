@@ -47,7 +47,7 @@ Personal Tracker is a comprehensive Flutter application that helps you monitor y
 1. Install Flutter SDK (https://flutter.dev/docs/get-started/install)
 2. Clone the repository:
    ```
-   git clone https://github.com/yourusername/personal_tracker.git
+   git clone https://github.com/Umut501/personal_tracker.git
    ```
 3. Navigate to the project directory:
    ```
