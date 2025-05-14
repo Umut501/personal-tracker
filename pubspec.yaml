@@ -1,0 +1,38 @@
+name: myapp
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+  # State management
+  provider: ^6.0.5
+  
+  # UI Components
+  cupertino_icons: ^1.0.5
+  
+  # Storage
+  shared_preferences: ^2.1.1
+  path_provider: ^2.0.15
+  
+  # Utils
+  intl: ^0.20.2
+  share_plus: ^7.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true
